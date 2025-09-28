@@ -14,7 +14,7 @@ The goal of this project is to provide remote Web control of lighting, offering:
 
 All features are managed through a responsive Web interface, making the system simple, practical, and fully connected.
 
-🚀 Features
+ Features
 
 - RGB color control: select the light color directly from the browser.
 
@@ -26,7 +26,11 @@ All features are managed through a responsive Web interface, making the system s
 
 User-friendly interface: just access the Pico W’s IP address on your network.
 
-🛠️ Technologies
+Technologies
 
 - Board: BitDogLab
 - Language: microPython
+
+Link:
+
+- [Video Demo](https://youtu.be/EQyxhFULCKw)
