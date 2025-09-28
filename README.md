@@ -28,7 +28,5 @@ User-friendly interface: just access the Pico W’s IP address on your network.
 
 🛠️ Technologies
 
-Board: BitDogLab
- + Raspberry Pi Pico W
-
-Language: microPython
+- Board: BitDogLab
+- Language: microPython
